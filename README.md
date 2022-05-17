@@ -6,8 +6,8 @@ oclif example Hello World CLI
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/oclif-hello-world.svg)](https://npmjs.org/package/oclif-hello-world)
 [![CircleCI](https://circleci.com/gh/oclif/hello-world/tree/main.svg?style=shield)](https://circleci.com/gh/oclif/hello-world/tree/main)
-[![Downloads/week](https://img.shields.io/npm/dw/oclif-hello-world.svg)](https://npmjs.org/package/oclif-hello-world)
-[![License](https://img.shields.io/npm/l/oclif-hello-world.svg)](https://github.com/oclif/hello-world/blob/main/package.json)
+[![Downloads/week](https://img.shields.io/npm/dw/@rkesters/dependency-validator)](https://npmjs.org/package/oclif-hello-world)
+[![License](https://img.shields.io/github/license/rkesters/dependency-validator)](https://github.com/rkesters/dependency-validator/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
@@ -120,7 +120,7 @@ EXAMPLES
   $ dep plugins
 ```
 
-_See code: [@oclif/plugin-plugins](https://github.com/oclif/plugin-plugins/blob/v2.0.11/src/commands/plugins/index.ts)_
+_See code: [@oclif/plugin-plugins](https://github.com/oclif/plugin-plugins/blob/v2.0.1/src/commands/plugins/index.ts)_
 
 ## `dep plugins:install PLUGIN...`
 
@@ -135,7 +135,7 @@ ARGUMENTS
 
 FLAGS
   -f, --force    Run yarn install with force flag.
-  -h, --help     Show CLI help.
+  -h, --help     show CLI help
   -v, --verbose
 
 DESCRIPTION
@@ -172,7 +172,7 @@ ARGUMENTS
   PLUGIN  [default: .] Plugin to inspect.
 
 FLAGS
-  -h, --help     Show CLI help.
+  -h, --help     show CLI help
   -v, --verbose
 
 DESCRIPTION
@@ -195,7 +195,7 @@ ARGUMENTS
 
 FLAGS
   -f, --force    Run yarn install with force flag.
-  -h, --help     Show CLI help.
+  -h, --help     show CLI help
   -v, --verbose
 
 DESCRIPTION
@@ -232,7 +232,7 @@ ARGUMENTS
   PATH  [default: .] path to plugin
 
 FLAGS
-  -h, --help     Show CLI help.
+  -h, --help     show CLI help
   -v, --verbose
 
 DESCRIPTION
@@ -259,7 +259,7 @@ ARGUMENTS
   PLUGIN  plugin to uninstall
 
 FLAGS
-  -h, --help     Show CLI help.
+  -h, --help     show CLI help
   -v, --verbose
 
 DESCRIPTION
@@ -282,7 +282,7 @@ ARGUMENTS
   PLUGIN  plugin to uninstall
 
 FLAGS
-  -h, --help     Show CLI help.
+  -h, --help     show CLI help
   -v, --verbose
 
 DESCRIPTION
@@ -305,7 +305,7 @@ ARGUMENTS
   PLUGIN  plugin to uninstall
 
 FLAGS
-  -h, --help     Show CLI help.
+  -h, --help     show CLI help
   -v, --verbose
 
 DESCRIPTION
@@ -325,7 +325,7 @@ USAGE
   $ dep plugins update [-h] [-v]
 
 FLAGS
-  -h, --help     Show CLI help.
+  -h, --help     show CLI help
   -v, --verbose
 
 DESCRIPTION
