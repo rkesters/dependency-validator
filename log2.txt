@@ -1,0 +1,33 @@
+total 64
+drwxr-xr-x   32 kestersor  staff   1.0K May 17 15:41 .
+drwxr-xr-x   22 kestersor  staff   704B May 17 15:41 ..
+drwxr-xr-x   14 kestersor  staff   448B May 17 15:41 .bin
+-rw-r--r--    1 kestersor  staff    31K May 17 15:41 .modules.yaml
+drwxr-xr-x  761 kestersor  staff    24K May 17 15:41 .pnpm
+drwxr-xr-x    3 kestersor  staff    96B May 17 15:41 @babel
+drwxr-xr-x    3 kestersor  staff    96B May 17 15:41 @eslint
+drwxr-xr-x    6 kestersor  staff   192B May 17 15:41 @oclif
+drwxr-xr-x    5 kestersor  staff   160B May 17 15:41 @types
+drwxr-xr-x    9 kestersor  staff   288B May 17 15:41 @typescript-eslint
+lrwxr-xr-x    1 kestersor  staff    34B May 17 15:41 chai -> .pnpm/chai@4.3.6/node_modules/chai
+lrwxr-xr-x    1 kestersor  staff    39B May 17 15:41 eslint -> .pnpm/eslint@7.32.0/node_modules/eslint
+lrwxr-xr-x    1 kestersor  staff    78B May 17 15:41 eslint-config-oclif -> .pnpm/eslint-config-oclif@4.0.0_eslint@7.32.0/node_modules/eslint-config-oclif
+lrwxr-xr-x    1 kestersor  staff   113B May 17 15:41 eslint-config-oclif-typescript -> .pnpm/eslint-config-oclif-typescript@1.0.2_e4zyhrvfnqudwdx5bevnvkluy4/node_modules/eslint-config-oclif-typescript
+lrwxr-xr-x    1 kestersor  staff    73B May 17 15:41 eslint-config-xo -> .pnpm/eslint-config-xo@0.35.0_eslint@7.32.0/node_modules/eslint-config-xo
+lrwxr-xr-x    1 kestersor  staff    85B May 17 15:41 eslint-config-xo-space -> .pnpm/eslint-config-xo-space@0.29.0_eslint@7.32.0/node_modules/eslint-config-xo-space
+lrwxr-xr-x    1 kestersor  staff    72B May 17 15:41 eslint-plugin-es -> .pnpm/eslint-plugin-es@3.0.1_eslint@7.32.0/node_modules/eslint-plugin-es
+lrwxr-xr-x    1 kestersor  staff    78B May 17 15:41 eslint-plugin-mocha -> .pnpm/eslint-plugin-mocha@9.0.0_eslint@7.32.0/node_modules/eslint-plugin-mocha
+lrwxr-xr-x    1 kestersor  staff    77B May 17 15:41 eslint-plugin-node -> .pnpm/eslint-plugin-node@11.1.0_eslint@7.32.0/node_modules/eslint-plugin-node
+lrwxr-xr-x    1 kestersor  staff    83B May 17 15:41 eslint-plugin-unicorn -> .pnpm/eslint-plugin-unicorn@36.0.0_eslint@7.32.0/node_modules/eslint-plugin-unicorn
+lrwxr-xr-x    1 kestersor  staff    50B May 17 15:41 eslint-scope -> .pnpm/eslint-scope@5.1.1/node_modules/eslint-scope
+lrwxr-xr-x    1 kestersor  staff    86B May 17 15:41 eslint-template-visitor -> .pnpm/eslint-template-visitor@2.3.2_eslint@7.32.0/node_modules/eslint-template-visitor
+lrwxr-xr-x    1 kestersor  staff    50B May 17 15:41 eslint-utils -> .pnpm/eslint-utils@2.1.0/node_modules/eslint-utils
+lrwxr-xr-x    1 kestersor  staff    64B May 17 15:41 eslint-visitor-keys -> .pnpm/eslint-visitor-keys@2.1.0/node_modules/eslint-visitor-keys
+lrwxr-xr-x    1 kestersor  staff    41B May 17 15:41 express -> .pnpm/express@4.18.1/node_modules/express
+lrwxr-xr-x    1 kestersor  staff    39B May 17 15:41 globby -> .pnpm/globby@11.1.0/node_modules/globby
+lrwxr-xr-x    1 kestersor  staff    36B May 17 15:41 mocha -> .pnpm/mocha@9.2.2/node_modules/mocha
+lrwxr-xr-x    1 kestersor  staff    36B May 17 15:41 oclif -> .pnpm/oclif@3.0.1/node_modules/oclif
+lrwxr-xr-x    1 kestersor  staff    32B May 17 15:41 shx -> .pnpm/shx@0.3.3/node_modules/shx
+lrwxr-xr-x    1 kestersor  staff    68B May 17 15:41 ts-node -> .pnpm/ts-node@10.2.1_4zbwwubelbdrswvmsodl7tslva/node_modules/ts-node
+lrwxr-xr-x    1 kestersor  staff    36B May 17 15:41 tslib -> .pnpm/tslib@2.3.1/node_modules/tslib
+lrwxr-xr-x    1 kestersor  staff    46B May 17 15:41 typescript -> .pnpm/typescript@4.6.4/node_modules/typescript
